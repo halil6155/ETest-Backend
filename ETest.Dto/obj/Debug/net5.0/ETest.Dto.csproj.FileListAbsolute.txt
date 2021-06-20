@@ -1,0 +1,15 @@
+C:\Users\Halil\Desktop\E-Sınav\ETest.Dto\bin\Debug\net5.0\ETest.Dto.deps.json
+C:\Users\Halil\Desktop\E-Sınav\ETest.Dto\bin\Debug\net5.0\ETest.Dto.dll
+C:\Users\Halil\Desktop\E-Sınav\ETest.Dto\bin\Debug\net5.0\ref\ETest.Dto.dll
+C:\Users\Halil\Desktop\E-Sınav\ETest.Dto\bin\Debug\net5.0\ETest.Dto.pdb
+C:\Users\Halil\Desktop\E-Sınav\ETest.Dto\bin\Debug\net5.0\Core.dll
+C:\Users\Halil\Desktop\E-Sınav\ETest.Dto\bin\Debug\net5.0\Core.pdb
+C:\Users\Halil\Desktop\E-Sınav\ETest.Dto\obj\Debug\net5.0\ETest.Dto.csprojAssemblyReference.cache
+C:\Users\Halil\Desktop\E-Sınav\ETest.Dto\obj\Debug\net5.0\ETest.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Halil\Desktop\E-Sınav\ETest.Dto\obj\Debug\net5.0\ETest.Dto.AssemblyInfoInputs.cache
+C:\Users\Halil\Desktop\E-Sınav\ETest.Dto\obj\Debug\net5.0\ETest.Dto.AssemblyInfo.cs
+C:\Users\Halil\Desktop\E-Sınav\ETest.Dto\obj\Debug\net5.0\ETest.Dto.csproj.CoreCompileInputs.cache
+C:\Users\Halil\Desktop\E-Sınav\ETest.Dto\obj\Debug\net5.0\ETest.Dto.csproj.CopyComplete
+C:\Users\Halil\Desktop\E-Sınav\ETest.Dto\obj\Debug\net5.0\ETest.Dto.dll
+C:\Users\Halil\Desktop\E-Sınav\ETest.Dto\obj\Debug\net5.0\ref\ETest.Dto.dll
+C:\Users\Halil\Desktop\E-Sınav\ETest.Dto\obj\Debug\net5.0\ETest.Dto.pdb

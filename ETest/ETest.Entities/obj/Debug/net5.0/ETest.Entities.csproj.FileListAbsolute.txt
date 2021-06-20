@@ -1,0 +1,17 @@
+C:\Users\Halil\Desktop\E-Sınav\ETest\ETest.Entities\bin\Debug\net5.0\ETest.Entities.deps.json
+C:\Users\Halil\Desktop\E-Sınav\ETest\ETest.Entities\bin\Debug\net5.0\ETest.Entities.dll
+C:\Users\Halil\Desktop\E-Sınav\ETest\ETest.Entities\bin\Debug\net5.0\ref\ETest.Entities.dll
+C:\Users\Halil\Desktop\E-Sınav\ETest\ETest.Entities\bin\Debug\net5.0\ETest.Entities.pdb
+C:\Users\Halil\Desktop\E-Sınav\ETest\ETest.Entities\bin\Debug\net5.0\Core.dll
+C:\Users\Halil\Desktop\E-Sınav\ETest\ETest.Entities\bin\Debug\net5.0\ETest.Dto.dll
+C:\Users\Halil\Desktop\E-Sınav\ETest\ETest.Entities\bin\Debug\net5.0\ETest.Dto.pdb
+C:\Users\Halil\Desktop\E-Sınav\ETest\ETest.Entities\bin\Debug\net5.0\Core.pdb
+C:\Users\Halil\Desktop\E-Sınav\ETest\ETest.Entities\obj\Debug\net5.0\ETest.Entities.csprojAssemblyReference.cache
+C:\Users\Halil\Desktop\E-Sınav\ETest\ETest.Entities\obj\Debug\net5.0\ETest.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Halil\Desktop\E-Sınav\ETest\ETest.Entities\obj\Debug\net5.0\ETest.Entities.AssemblyInfoInputs.cache
+C:\Users\Halil\Desktop\E-Sınav\ETest\ETest.Entities\obj\Debug\net5.0\ETest.Entities.AssemblyInfo.cs
+C:\Users\Halil\Desktop\E-Sınav\ETest\ETest.Entities\obj\Debug\net5.0\ETest.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Halil\Desktop\E-Sınav\ETest\ETest.Entities\obj\Debug\net5.0\ETest.Entities.csproj.CopyComplete
+C:\Users\Halil\Desktop\E-Sınav\ETest\ETest.Entities\obj\Debug\net5.0\ETest.Entities.dll
+C:\Users\Halil\Desktop\E-Sınav\ETest\ETest.Entities\obj\Debug\net5.0\ref\ETest.Entities.dll
+C:\Users\Halil\Desktop\E-Sınav\ETest\ETest.Entities\obj\Debug\net5.0\ETest.Entities.pdb
